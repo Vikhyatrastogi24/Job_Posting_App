@@ -1,0 +1,14 @@
+# React
+/frontend/node_modules/
+/frontend/build/
+
+# Spring Boot
+/backend/target/
+/backend/.idea/
+/backend/.classpath
+/backend/.project
+/backend/.settings/
+
+# Common
+.DS_Store
+*.log
